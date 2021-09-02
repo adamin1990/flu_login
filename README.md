@@ -1,16 +1,15 @@
 # flu_login
 
-A new Flutter project.
+> flutter实现的炫酷登录注册效果
 
-## Getting Started
+## 效果
 
-This project is a starting point for a Flutter application.
+![](res.gif)
 
-A few resources to get you started if this is your first Flutter project:
+能够学到下面api的使用
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- AnimatedPosition
+- AnimationBuilder 
+- Transform
+- AnimationController
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
